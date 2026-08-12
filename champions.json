@@ -29,9 +29,9 @@
       "attackspeedperlevel": 2.5,
       "attackspeed": 0.651
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Aatrox.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Aatrox.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 0,
       "y": 0
     },
@@ -68,9 +68,9 @@
       "attackspeedperlevel": 2.2,
       "attackspeed": 0.668
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Ahri.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Ahri.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 48,
       "y": 0
     },
@@ -106,9 +106,9 @@
       "attackspeedperlevel": 3.2,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Akali.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Akali.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 96,
       "y": 0
     },
@@ -131,8 +131,8 @@
       "movespeed": 330,
       "armor": 26,
       "armorperlevel": 4.7,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 500,
       "hpregen": 3.75,
       "hpregenperlevel": 0.65,
@@ -145,9 +145,9 @@
       "attackspeedperlevel": 4,
       "attackspeed": 0.638
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Akshan.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Akshan.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 144,
       "y": 0
     },
@@ -184,9 +184,9 @@
       "attackspeedperlevel": 2.125,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Alistar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Alistar.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 192,
       "y": 0
     },
@@ -223,9 +223,9 @@
       "attackspeedperlevel": 2.5,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Ambessa.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Ambessa.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 240,
       "y": 0
     },
@@ -262,9 +262,9 @@
       "attackspeedperlevel": 2.18,
       "attackspeed": 0.736
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Amumu.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Amumu.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 288,
       "y": 0
     },
@@ -300,9 +300,9 @@
       "attackspeedperlevel": 1.68,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Anivia.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Anivia.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 336,
       "y": 0
     },
@@ -339,9 +339,9 @@
       "attackspeedperlevel": 1.36,
       "attackspeed": 0.61
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Annie.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Annie.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 384,
       "y": 0
     },
@@ -363,8 +363,8 @@
       "movespeed": 325,
       "armor": 26,
       "armorperlevel": 4.2,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 550,
       "hpregen": 3.25,
       "hpregenperlevel": 0.55,
@@ -377,9 +377,9 @@
       "attackspeedperlevel": 2.1,
       "attackspeed": 0.665
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Aphelios.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Aphelios.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 432,
       "y": 0
     },
@@ -402,8 +402,8 @@
       "movespeed": 325,
       "armor": 26,
       "armorperlevel": 4.6,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 600,
       "hpregen": 3.5,
       "hpregenperlevel": 0.55,
@@ -416,9 +416,9 @@
       "attackspeedperlevel": 3,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Ashe.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Ashe.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 0,
       "y": 48
     },
@@ -454,9 +454,9 @@
       "attackspeedperlevel": 1.5,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/AurelionSol.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/AurelionSol.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 48,
       "y": 48
     },
@@ -493,9 +493,9 @@
       "attackspeedperlevel": 2,
       "attackspeed": 0.668
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Aurora.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Aurora.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 96,
       "y": 48
     },
@@ -532,9 +532,9 @@
       "attackspeedperlevel": 5,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Azir.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Azir.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 144,
       "y": 48
     },
@@ -571,9 +571,9 @@
       "attackspeedperlevel": 2,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Bard.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Bard.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 192,
       "y": 48
     },
@@ -589,7 +589,7 @@
     ],
     "stats": {
       "hp": 580,
-      "hpperlevel": 110,
+      "hpperlevel": 105,
       "mp": 45,
       "mpperlevel": 0,
       "movespeed": 340,
@@ -609,9 +609,9 @@
       "attackspeedperlevel": 0,
       "attackspeed": 0.67
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Belveth.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Belveth.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 240,
       "y": 48
     },
@@ -648,9 +648,9 @@
       "attackspeedperlevel": 1.13,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Blitzcrank.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Blitzcrank.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 288,
       "y": 48
     },
@@ -687,9 +687,9 @@
       "attackspeedperlevel": 2,
       "attackspeed": 0.681
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Brand.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Brand.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 336,
       "y": 48
     },
@@ -726,9 +726,9 @@
       "attackspeedperlevel": 3.5,
       "attackspeed": 0.644
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Braum.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Braum.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 384,
       "y": 48
     },
@@ -765,9 +765,9 @@
       "attackspeedperlevel": 2,
       "attackspeed": 0.644
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Briar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Briar.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 432,
       "y": 48
     },
@@ -789,8 +789,8 @@
       "movespeed": 325,
       "armor": 27,
       "armorperlevel": 4.7,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 650,
       "hpregen": 3.5,
       "hpregenperlevel": 0.55,
@@ -803,9 +803,9 @@
       "attackspeedperlevel": 4,
       "attackspeed": 0.681
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Caitlyn.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Caitlyn.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 0,
       "y": 96
     },
@@ -823,7 +823,7 @@
     "stats": {
       "hp": 650,
       "hpperlevel": 99,
-      "mp": 339,
+      "mp": 375,
       "mpperlevel": 52,
       "movespeed": 340,
       "armor": 35,
@@ -842,9 +842,9 @@
       "attackspeedperlevel": 2.5,
       "attackspeed": 0.644
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Camille.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Camille.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 48,
       "y": 96
     },
@@ -880,9 +880,9 @@
       "attackspeedperlevel": 1.5,
       "attackspeed": 0.647
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Cassiopeia.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Cassiopeia.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 96,
       "y": 96
     },
@@ -919,9 +919,9 @@
       "attackspeedperlevel": 1.44,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Chogath.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Chogath.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 144,
       "y": 96
     },
@@ -944,8 +944,8 @@
       "movespeed": 325,
       "armor": 27,
       "armorperlevel": 4.5,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 550,
       "hpregen": 5.5,
       "hpregenperlevel": 0.55,
@@ -958,9 +958,9 @@
       "attackspeedperlevel": 2.8,
       "attackspeed": 0.644
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Corki.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Corki.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 192,
       "y": 96
     },
@@ -997,9 +997,9 @@
       "attackspeedperlevel": 1,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Darius.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Darius.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 240,
       "y": 96
     },
@@ -1036,9 +1036,9 @@
       "attackspeedperlevel": 2,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Diana.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Diana.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 288,
       "y": 96
     },
@@ -1060,8 +1060,8 @@
       "movespeed": 330,
       "armor": 29,
       "armorperlevel": 4.5,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 550,
       "hpregen": 3.75,
       "hpregenperlevel": 0.7,
@@ -1074,9 +1074,9 @@
       "attackspeedperlevel": 2.7,
       "attackspeed": 0.679
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Draven.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Draven.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 336,
       "y": 96
     },
@@ -1113,9 +1113,9 @@
       "attackspeedperlevel": 3.3,
       "attackspeed": 0.67
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/DrMundo.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/DrMundo.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 384,
       "y": 96
     },
@@ -1152,9 +1152,9 @@
       "attackspeedperlevel": 3.3,
       "attackspeed": 0.688
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Ekko.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Ekko.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion0.png",
       "x": 432,
       "y": 96
     },
@@ -1191,9 +1191,9 @@
       "attackspeedperlevel": 1.75,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Elise.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Elise.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 0,
       "y": 0
     },
@@ -1230,9 +1230,9 @@
       "attackspeedperlevel": 2.1,
       "attackspeed": 0.667
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Evelynn.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Evelynn.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 48,
       "y": 0
     },
@@ -1255,8 +1255,8 @@
       "movespeed": 325,
       "armor": 24,
       "armorperlevel": 4.2,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 550,
       "hpregen": 4,
       "hpregenperlevel": 0.65,
@@ -1269,9 +1269,9 @@
       "attackspeedperlevel": 2.5,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Ezreal.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Ezreal.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 96,
       "y": 0
     },
@@ -1308,9 +1308,9 @@
       "attackspeedperlevel": 2.11,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Fiddlesticks.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Fiddlesticks.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 144,
       "y": 0
     },
@@ -1347,9 +1347,9 @@
       "attackspeedperlevel": 3.2,
       "attackspeed": 0.69
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Fiora.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Fiora.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 192,
       "y": 0
     },
@@ -1386,9 +1386,9 @@
       "attackspeedperlevel": 3.1,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Fizz.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Fizz.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 240,
       "y": 0
     },
@@ -1425,9 +1425,9 @@
       "attackspeedperlevel": 1.5,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Galio.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Galio.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 288,
       "y": 0
     },
@@ -1463,9 +1463,9 @@
       "attackspeedperlevel": 3.2,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Gangplank.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Gangplank.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 336,
       "y": 0
     },
@@ -1502,9 +1502,9 @@
       "attackspeedperlevel": 3.65,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Garen.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Garen.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 384,
       "y": 0
     },
@@ -1541,9 +1541,9 @@
       "attackspeedperlevel": 6,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Gnar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Gnar.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 432,
       "y": 0
     },
@@ -1580,9 +1580,9 @@
       "attackspeedperlevel": 2.05,
       "attackspeed": 0.675
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Gragas.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Gragas.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 0,
       "y": 48
     },
@@ -1604,8 +1604,8 @@
       "movespeed": 340,
       "armor": 33,
       "armorperlevel": 4.6,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 425,
       "hpregen": 8,
       "hpregenperlevel": 0.7,
@@ -1618,9 +1618,9 @@
       "attackspeedperlevel": 3,
       "attackspeed": 0.475
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Graves.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Graves.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 48,
       "y": 48
     },
@@ -1656,9 +1656,9 @@
       "attackspeedperlevel": 2.25,
       "attackspeed": 0.69
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Gwen.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Gwen.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 96,
       "y": 48
     },
@@ -1695,9 +1695,9 @@
       "attackspeedperlevel": 2.5,
       "attackspeed": 0.67
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Hecarim.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Hecarim.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 144,
       "y": 48
     },
@@ -1734,9 +1734,9 @@
       "attackspeedperlevel": 1.36,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Heimerdinger.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Heimerdinger.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 192,
       "y": 48
     },
@@ -1773,9 +1773,9 @@
       "attackspeedperlevel": 2.5,
       "attackspeed": 0.69
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Hwei.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Hwei.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 240,
       "y": 48
     },
@@ -1812,9 +1812,9 @@
       "attackspeedperlevel": 2.5,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Illaoi.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Illaoi.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 288,
       "y": 48
     },
@@ -1851,9 +1851,9 @@
       "attackspeedperlevel": 2.5,
       "attackspeed": 0.656
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Irelia.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Irelia.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 336,
       "y": 48
     },
@@ -1890,2344 +1890,13 @@
       "attackspeedperlevel": 3.4,
       "attackspeed": 0.644
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Ivern.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Ivern.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 384,
       "y": 48
     },
     "description": "Ivern Bramblefoot, known to many as the Green Father, is a peculiar half man, half tree who roams Runeterra's forests, cultivating life everywhere he goes. He knows the secrets of the natural world, and holds deep friendships with all things that grow..."
-  },
-  {
-    "id": "jade_ahri",
-    "key": "60103",
-    "name": "Ahri",
-    "title": "The Nine-Tailed Fox",
-    "tags": [
-      "Mage",
-      "Assassin"
-    ],
-    "stats": {
-      "hp": 460,
-      "hpperlevel": 80,
-      "mp": 280,
-      "mpperlevel": 50,
-      "movespeed": 330,
-      "armor": 18.5,
-      "armorperlevel": 3.5,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 550,
-      "hpregen": 6.1,
-      "hpregenperlevel": 0.6,
-      "mpregen": 6.85,
-      "mpregenperlevel": 0.6,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 53,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2,
-      "attackspeed": 0.668
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Ahri.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
-      "x": 432,
-      "y": 48
-    },
-    "description": "- Essence Theft (P) is stacked on damaging enemies<br>- Spirit Rush (R) doesn't reset"
-  },
-  {
-    "id": "jade_alistar",
-    "key": "60012",
-    "name": "Alistar",
-    "title": "The Minotaur",
-    "tags": [
-      "Tank",
-      "Support"
-    ],
-    "stats": {
-      "hp": 544,
-      "hpperlevel": 102,
-      "mp": 255,
-      "mpperlevel": 40,
-      "movespeed": 330,
-      "armor": 22,
-      "armorperlevel": 3.5,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 8.1,
-      "hpregenperlevel": 0.85,
-      "mpregen": 6.9,
-      "mpregenperlevel": 0.45,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 58.65,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.125,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Alistar.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
-      "x": 0,
-      "y": 96
-    },
-    "description": "- Trample (P) and Triumphant Roar (E) have swapped<br>- Can build Ability Power<br>- Can solo lane"
-  },
-  {
-    "id": "jade_amumu",
-    "key": "60032",
-    "name": "Amumu",
-    "title": "The Sad Mummy",
-    "tags": [
-      "Tank",
-      "Support"
-    ],
-    "stats": {
-      "hp": 556,
-      "hpperlevel": 84,
-      "mp": 260,
-      "mpperlevel": 40,
-      "movespeed": 335,
-      "armor": 25.3,
-      "armorperlevel": 3.3,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 8.3,
-      "hpregenperlevel": 0.85,
-      "mpregen": 7,
-      "mpregenperlevel": 0.5,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 50.8,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.18,
-      "attackspeed": 0.638
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Amumu.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
-      "x": 48,
-      "y": 96
-    },
-    "description": "- Bandage Toss (Q) doesn't have extra charges<br>- Cursed Touch (P) reduces magic resist on basic attacks only"
-  },
-  {
-    "id": "jade_anivia",
-    "key": "60034",
-    "name": "Anivia",
-    "title": "The Cryopheonix",
-    "tags": [
-      "Mage",
-      "Support"
-    ],
-    "stats": {
-      "hp": 420,
-      "hpperlevel": 70,
-      "mp": 310,
-      "mpperlevel": 53,
-      "movespeed": 325,
-      "armor": 18.5,
-      "armorperlevel": 4,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 600,
-      "hpregen": 5.2,
-      "hpregenperlevel": 0.55,
-      "mpregen": 7.6,
-      "mpregenperlevel": 0.6,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 51.2,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 1.68,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Anivia.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
-      "x": 96,
-      "y": 96
-    },
-    "description": "- Frostbite (E) doesn't have Chill passive<br>- Glacial Storm (R) slow also affects attack speed"
-  },
-  {
-    "id": "jade_annie",
-    "key": "60001",
-    "name": "Annie",
-    "title": "The Dark Child",
-    "tags": [
-      "Mage",
-      "Support"
-    ],
-    "stats": {
-      "hp": 460,
-      "hpperlevel": 76,
-      "mp": 300,
-      "mpperlevel": 50,
-      "movespeed": 335,
-      "armor": 16.5,
-      "armorperlevel": 4,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 625,
-      "hpregen": 5.05,
-      "hpregenperlevel": 0.55,
-      "mpregen": 7.5,
-      "mpregenperlevel": 0.6,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 50.625,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 1.36,
-      "attackspeed": 0.579
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Annie.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
-      "x": 144,
-      "y": 96
-    },
-    "description": "- Tibbers (R) dies when Annie does<br>- Pyromania (P) Stacks reset on death<br>- Molten Shield (E) doesn't grant movement speed"
-  },
-  {
-    "id": "jade_ashe",
-    "key": "60022",
-    "name": "Ashe",
-    "title": "The Frost Archer",
-    "tags": [
-      "Marksman",
-      "Support"
-    ],
-    "stats": {
-      "hp": 474,
-      "hpperlevel": 79,
-      "mp": 208,
-      "mpperlevel": 35,
-      "movespeed": 325,
-      "armor": 18.9,
-      "armorperlevel": 3.4,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 600,
-      "hpregen": 5.05,
-      "hpregenperlevel": 0.55,
-      "mpregen": 6.7,
-      "mpregenperlevel": 0.4,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 49,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 4,
-      "attackspeed": 0.658
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Ashe.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
-      "x": 192,
-      "y": 96
-    },
-    "description": "- Frost Shot (Q) toggles slowing basic attacks<br>- Focus (P) builds up critical strikes out of combat<br>- Hawkshot (E) grants bonus gold on kill"
-  },
-  {
-    "id": "jade_blitzcrank",
-    "key": "60053",
-    "name": "Blitzcrank",
-    "title": "The Great Steam Golem",
-    "tags": [
-      "Tank",
-      "Support"
-    ],
-    "stats": {
-      "hp": 518,
-      "hpperlevel": 95,
-      "mp": 240,
-      "mpperlevel": 40,
-      "movespeed": 325,
-      "armor": 22,
-      "armorperlevel": 3.5,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 8,
-      "hpregenperlevel": 0.75,
-      "mpregen": 7.1,
-      "mpregenperlevel": 0.5,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 59.16,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 1.13,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Blitzcrank.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
-      "x": 240,
-      "y": 96
-    },
-    "description": "- Static Field (R) passive zaps nearby enemies"
-  },
-  {
-    "id": "jade_brand",
-    "key": "60063",
-    "name": "Brand",
-    "title": "The Burning Vengeance",
-    "tags": [
-      "Mage",
-      "Support"
-    ],
-    "stats": {
-      "hp": 456,
-      "hpperlevel": 76,
-      "mp": 295,
-      "mpperlevel": 45,
-      "movespeed": 340,
-      "armor": 19.5,
-      "armorperlevel": 3.5,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 550,
-      "hpregen": 5.05,
-      "hpregenperlevel": 0.55,
-      "mpregen": 7.6,
-      "mpregenperlevel": 0.6,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 55,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 1.36,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Brand.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
-      "x": 288,
-      "y": 96
-    },
-    "description": "- Ablaze (P) explosions do not occur"
-  },
-  {
-    "id": "jade_chogath",
-    "key": "60031",
-    "name": "Cho'Gath",
-    "title": "The Terror of the Void",
-    "tags": [
-      "Tank",
-      "Mage"
-    ],
-    "stats": {
-      "hp": 520,
-      "hpperlevel": 80,
-      "mp": 245,
-      "mpperlevel": 40,
-      "movespeed": 345,
-      "armor": 26.5,
-      "armorperlevel": 3.5,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 8.35,
-      "hpregenperlevel": 0.85,
-      "mpregen": 6.9,
-      "mpregenperlevel": 0.45,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 58.3,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 1.44,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Chogath.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
-      "x": 336,
-      "y": 96
-    },
-    "description": "- Feast (R) stacks max 6 times, is lost on kill but can be stacked on anything<br>- Vorpal Spikes (E) toggles the spikes that go through players"
-  },
-  {
-    "id": "jade_corki",
-    "key": "60042",
-    "name": "Corki",
-    "title": "The Daring Bombardier",
-    "tags": [
-      "Marksman",
-      "Mage"
-    ],
-    "stats": {
-      "hp": 457,
-      "hpperlevel": 82,
-      "mp": 280,
-      "mpperlevel": 37,
-      "movespeed": 325,
-      "armor": 21,
-      "armorperlevel": 3.5,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 550,
-      "hpregen": 5.05,
-      "hpregenperlevel": 0.55,
-      "mpregen": 7.05,
-      "mpregenperlevel": 0.55,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 51.2,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.3,
-      "attackspeed": 0.658
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Corki.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
-      "x": 384,
-      "y": 96
-    },
-    "description": "- Phosphorus Bomb (Q) is an instant explosion"
-  },
-  {
-    "id": "jade_drmundo",
-    "key": "60036",
-    "name": "Dr. Mundo",
-    "title": "The Madman of Zaun",
-    "tags": [
-      "Tank",
-      "Fighter"
-    ],
-    "stats": {
-      "hp": 522,
-      "hpperlevel": 89,
-      "mp": 0,
-      "mpperlevel": 0,
-      "movespeed": 345,
-      "armor": 24.5,
-      "armorperlevel": 3.5,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 7.25,
-      "hpregenperlevel": 0.75,
-      "mpregen": 0,
-      "mpregenperlevel": 0,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 59.23,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.8,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_DrMundo.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion1.png",
-      "x": 432,
-      "y": 96
-    },
-    "description": "- Burning Agony (W) is a toggle of damage AoE around him<br>- Masochism (E) is a buff for a time not an attack<br>- Adrenaline Rush (P) regenerates health over time"
-  },
-  {
-    "id": "jade_evelynn",
-    "key": "60028",
-    "name": "Evelynn",
-    "title": "The Widowmaker",
-    "tags": [
-      "Assassin",
-      "Mage"
-    ],
-    "stats": {
-      "hp": 470,
-      "hpperlevel": 90,
-      "mp": 235,
-      "mpperlevel": 45,
-      "movespeed": 340,
-      "armor": 20,
-      "armorperlevel": 4,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 9.45,
-      "hpregenperlevel": 0.55,
-      "mpregen": 7.7,
-      "mpregenperlevel": 0.6,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 51.5,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 3.6,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Evelynn.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 0,
-      "y": 0
-    },
-    "description": "- The Abilities are completely different. Read the descriptions<br>- Fighter not an Assassin"
-  },
-  {
-    "id": "jade_ezreal",
-    "key": "60081",
-    "name": "Ezreal",
-    "title": "The Prodigal Explorer",
-    "tags": [
-      "Marksman",
-      "Mage"
-    ],
-    "stats": {
-      "hp": 430,
-      "hpperlevel": 80,
-      "mp": 280,
-      "mpperlevel": 45,
-      "movespeed": 330,
-      "armor": 19.5,
-      "armorperlevel": 3.5,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 550,
-      "hpregen": 6.05,
-      "hpregenperlevel": 0.55,
-      "mpregen": 7.65,
-      "mpregenperlevel": 0.65,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 49.6,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 3.22,
-      "attackspeed": 0.658
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Ezreal.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 48,
-      "y": 0
-    },
-    "description": "- Essence Flux (W) passes through all units dealing damage to enemies and granting allies attack speed<br>- Trueshot Barrage (R) deals less damage per enemy hit"
-  },
-  {
-    "id": "jade_fiddlesticks",
-    "key": "60009",
-    "name": "Fiddlesticks",
-    "title": "The Harbinger of Doom",
-    "tags": [
-      "Mage",
-      "Support"
-    ],
-    "stats": {
-      "hp": 470,
-      "hpperlevel": 80,
-      "mp": 310,
-      "mpperlevel": 59,
-      "movespeed": 335,
-      "armor": 18.5,
-      "armorperlevel": 3.5,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 480,
-      "hpregen": 5.2,
-      "hpregenperlevel": 0.6,
-      "mpregen": 7.55,
-      "mpregenperlevel": 0.65,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 48.575,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.11,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Fiddlesticks.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 96,
-      "y": 0
-    },
-    "description": "- The Abilities are completely different, except for the ultimate Crowstorm (R)<br>- Fiddlesticks fear makes the enemy walk randomly"
-  },
-  {
-    "id": "jade_gangplank",
-    "key": "60041",
-    "name": "Gangplank",
-    "title": "The Saltwater Scourge",
-    "tags": [
-      "Fighter"
-    ],
-    "stats": {
-      "hp": 576,
-      "hpperlevel": 81,
-      "mp": 255,
-      "mpperlevel": 40,
-      "movespeed": 345,
-      "armor": 23.8,
-      "armorperlevel": 3.3,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 5,
-      "hpregenperlevel": 0.75,
-      "mpregen": 7.2,
-      "mpregenperlevel": 0.7,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 57,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.75,
-      "attackspeed": 0.651
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Gangplank.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 144,
-      "y": 0
-    },
-    "description": "- Cannon Barrage (R) has random cannonballs instead of consistent AOE damage<br>- Raise Morale (E) grants move speed and Attack damage both passively and upon activation<br>- Parrrley (Q) grants gold (no more silver serpents)"
-  },
-  {
-    "id": "jade_garen",
-    "key": "60086",
-    "name": "Garen",
-    "title": "The Might of Deamcia",
-    "tags": [
-      "Fighter",
-      "Tank"
-    ],
-    "stats": {
-      "hp": 551,
-      "hpperlevel": 96,
-      "mp": 0,
-      "mpperlevel": 0,
-      "movespeed": 345,
-      "armor": 25.7,
-      "armorperlevel": 2.7,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 8.2,
-      "hpregenperlevel": 0.75,
-      "mpregen": 0,
-      "mpregenperlevel": 0,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 55.5,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.9,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Garen.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 192,
-      "y": 0
-    },
-    "description": "- Demacian Justice (R) does magic damage"
-  },
-  {
-    "id": "jade_gragas",
-    "key": "60079",
-    "name": "Gragas",
-    "title": "The Rabble Rouser",
-    "tags": [
-      "Fighter",
-      "Mage"
-    ],
-    "stats": {
-      "hp": 523,
-      "hpperlevel": 89,
-      "mp": 268,
-      "mpperlevel": 47,
-      "movespeed": 340,
-      "armor": 23.6,
-      "armorperlevel": 3.6,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 125,
-      "hpregen": 8.1,
-      "hpregenperlevel": 0.85,
-      "mpregen": 6.9,
-      "mpregenperlevel": 0.45,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 59.155,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.05,
-      "attackspeed": 0.651
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Gragas.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 240,
-      "y": 0
-    },
-    "description": "- Barrel Roll (Q) does full damage no matter time it is on the ground<br>- Drunken Rage (W) last for a long time"
-  },
-  {
-    "id": "jade_heimerdinger",
-    "key": "60074",
-    "name": "Heimerdinger",
-    "title": "The Revered Inventor",
-    "tags": [
-      "Mage",
-      "Support"
-    ],
-    "stats": {
-      "hp": 425,
-      "hpperlevel": 75,
-      "mp": 305,
-      "mpperlevel": 65,
-      "movespeed": 325,
-      "armor": 14,
-      "armorperlevel": 3,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 550,
-      "hpregen": 4.5,
-      "hpregenperlevel": 0.55,
-      "mpregen": 7.65,
-      "mpregenperlevel": 0.65,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 52.24,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 1.21,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Heimerdinger.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 288,
-      "y": 0
-    },
-    "description": "- The abilities may look similar but are very different<br>- UPGRADE!!! (R) is a buff that lasts a set time not a single ability<br>- H-28G Evolution Turrets (Q) are active globally but die when Heimerdinger does"
-  },
-  {
-    "id": "jade_janna",
-    "key": "60040",
-    "name": "Janna",
-    "title": "The Storm's Fury",
-    "tags": [
-      "Support",
-      "Mage"
-    ],
-    "stats": {
-      "hp": 434,
-      "hpperlevel": 78,
-      "mp": 366,
-      "mpperlevel": 64,
-      "movespeed": 335,
-      "armor": 16.8,
-      "armorperlevel": 3.8,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 475,
-      "hpregen": 5.05,
-      "hpregenperlevel": 0.55,
-      "mpregen": 7.5,
-      "mpregenperlevel": 0.6,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 51.95,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.61,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Janna.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 336,
-      "y": 0
-    },
-    "description": "- Tailwind (P) grants global movement speed"
-  },
-  {
-    "id": "jade_jarvaniv",
-    "key": "60059",
-    "name": "Jarvan IV",
-    "title": "The Exemplar of Demacia",
-    "tags": [
-      "Fighter",
-      "Tank"
-    ],
-    "stats": {
-      "hp": 510,
-      "hpperlevel": 90,
-      "mp": 275,
-      "mpperlevel": 40,
-      "movespeed": 340,
-      "armor": 21.6,
-      "armorperlevel": 3.6,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 175,
-      "hpregen": 7.7,
-      "hpregenperlevel": 0.7,
-      "mpregen": 6.45,
-      "mpregenperlevel": 0.45,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 53.4,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.5,
-      "attackspeed": 0.658
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_JarvanIV.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 384,
-      "y": 0
-    },
-    "description": "- Cataclysm (R) is single target<br>- Demacian Standard (E) passive grants armor"
-  },
-  {
-    "id": "jade_jax",
-    "key": "60024",
-    "name": "Jax",
-    "title": "Grandmaster at Arms",
-    "tags": [
-      "Fighter"
-    ],
-    "stats": {
-      "hp": 506,
-      "hpperlevel": 83,
-      "mp": 265,
-      "mpperlevel": 35,
-      "movespeed": 350,
-      "armor": 25.5,
-      "armorperlevel": 3.2,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 8,
-      "hpregenperlevel": 0.55,
-      "mpregen": 7.1,
-      "mpregenperlevel": 0.7,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 59.675,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 3.4,
-      "attackspeed": 0.638
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Jax.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 432,
-      "y": 0
-    },
-    "description": "- Grandmaster's Might (R) grants stacking attack speed per strike<br>- Equipment Mastery (P) grants health for power"
-  },
-  {
-    "id": "jade_karthus",
-    "key": "60030",
-    "name": "Karthus",
-    "title": "The Deathsinger",
-    "tags": [
-      "Mage"
-    ],
-    "stats": {
-      "hp": 465,
-      "hpperlevel": 75,
-      "mp": 331,
-      "mpperlevel": 61,
-      "movespeed": 335,
-      "armor": 18.5,
-      "armorperlevel": 3.5,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 450,
-      "hpregen": 6.05,
-      "hpregenperlevel": 0.55,
-      "mpregen": 7.1,
-      "mpregenperlevel": 0.6,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 45.45,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.11,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Karthus.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 0,
-      "y": 48
-    },
-    "description": "- The dead never change"
-  },
-  {
-    "id": "jade_kassadin",
-    "key": "60038",
-    "name": "Kassadin",
-    "title": "The Void Walker",
-    "tags": [
-      "Assassin",
-      "Mage"
-    ],
-    "stats": {
-      "hp": 511,
-      "hpperlevel": 78,
-      "mp": 275,
-      "mpperlevel": 45,
-      "movespeed": 340,
-      "armor": 21.2,
-      "armorperlevel": 3.2,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 7.45,
-      "hpregenperlevel": 0.5,
-      "mpregen": 7.5,
-      "mpregenperlevel": 0.6,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 56.2,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 3.7,
-      "attackspeed": 0.64
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Kassadin.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 48,
-      "y": 48
-    },
-    "description": "- Force Pulse (E) requires 6 casts around him to then cast<br>- Riftwalk (R) can stack 10 times<br>- Void Stone (P) transforms some magic damage prevented into attack speed"
-  },
-  {
-    "id": "jade_katarina",
-    "key": "60055",
-    "name": "Katarina",
-    "title": "The Sinister Blade",
-    "tags": [
-      "Assassin",
-      "Mage"
-    ],
-    "stats": {
-      "hp": 505,
-      "hpperlevel": 80,
-      "mp": 0,
-      "mpperlevel": 0,
-      "movespeed": 345,
-      "armor": 24.5,
-      "armorperlevel": 3.5,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 7.5,
-      "hpregenperlevel": 0.55,
-      "mpregen": 0,
-      "mpregenperlevel": 0,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 56.2,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.74,
-      "attackspeed": 0.658
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Katarina.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 96,
-      "y": 48
-    },
-    "description": "- Bouncing Blades (Q) deals damage and marks enemies, Katarina can consume the mark with spells or attacks to deal extra magic damage.<br>- Sinister Steel (W) does damage around Katarina and increases her movement speed if the ability hits a champion..."
-  },
-  {
-    "id": "jade_kayle",
-    "key": "60010",
-    "name": "Kayle",
-    "title": "The Judicator",
-    "tags": [
-      "Mage",
-      "Marksman"
-    ],
-    "stats": {
-      "hp": 501,
-      "hpperlevel": 93,
-      "mp": 295,
-      "mpperlevel": 40,
-      "movespeed": 335,
-      "armor": 21,
-      "armorperlevel": 3.5,
-      "spellblock": 30,
-      "spellblockperlevel": 0.75,
-      "attackrange": 125,
-      "hpregen": 7.5,
-      "hpregenperlevel": 0.75,
-      "mpregen": 7.425,
-      "mpregenperlevel": 0.325,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 56.3,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.3,
-      "attackspeed": 0.638
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Kayle.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 144,
-      "y": 48
-    },
-    "description": "- The Abilities are completely different, except for Divine Blessing (W)<br>- Leveling up doesn't change her attacks<br>- Holy Fervor (P) grants Attack Damage as Ability Power and vice versa"
-  },
-  {
-    "id": "jade_kogmaw",
-    "key": "60096",
-    "name": "Kog'Maw",
-    "title": "The Mouth of the Abyss",
-    "tags": [
-      "Marksman",
-      "Mage"
-    ],
-    "stats": {
-      "hp": 524,
-      "hpperlevel": 84,
-      "mp": 295,
-      "mpperlevel": 40,
-      "movespeed": 330,
-      "armor": 17.5,
-      "armorperlevel": 3.5,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 500,
-      "hpregen": 5.55,
-      "hpregenperlevel": 0.55,
-      "mpregen": 8.2,
-      "mpregenperlevel": 0.7,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 49,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.65,
-      "attackspeed": 0.665
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_KogMaw.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 192,
-      "y": 48
-    },
-    "description": "- Caustic Spittle (Q) is point and click"
-  },
-  {
-    "id": "jade_leesin",
-    "key": "60064",
-    "name": "Lee Sin",
-    "title": "The Blind Monk",
-    "tags": [
-      "Fighter",
-      "Assassin"
-    ],
-    "stats": {
-      "hp": 513,
-      "hpperlevel": 85,
-      "mp": 200,
-      "mpperlevel": 0,
-      "movespeed": 350,
-      "armor": 23.7,
-      "armorperlevel": 3.7,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 6.95,
-      "hpregenperlevel": 0.7,
-      "mpregen": 50,
-      "mpregenperlevel": 0,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 59,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 3,
-      "attackspeed": 0.651
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_LeeSin.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 240,
-      "y": 48
-    },
-    "description": "- Nothing can upset his balance"
-  },
-  {
-    "id": "jade_leona",
-    "key": "60089",
-    "name": "Leona",
-    "title": "The Radiant Dawn",
-    "tags": [
-      "Tank",
-      "Support"
-    ],
-    "stats": {
-      "hp": 517,
-      "hpperlevel": 87,
-      "mp": 275,
-      "mpperlevel": 40,
-      "movespeed": 335,
-      "armor": 25.1,
-      "armorperlevel": 3.1,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 9.85,
-      "hpregenperlevel": 0.85,
-      "mpregen": 7.7,
-      "mpregenperlevel": 0.7,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 58,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.9,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Leona.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 288,
-      "y": 48
-    },
-    "description": "- In a human life, the sun never changes, neither does she"
-  },
-  {
-    "id": "jade_lulu",
-    "key": "60117",
-    "name": "Lulu",
-    "title": "The Fae Sorceress",
-    "tags": [
-      "Support",
-      "Mage"
-    ],
-    "stats": {
-      "hp": 497,
-      "hpperlevel": 82,
-      "mp": 255,
-      "mpperlevel": 55,
-      "movespeed": 325,
-      "armor": 16.7,
-      "armorperlevel": 3.7,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 550,
-      "hpregen": 5.6,
-      "hpregenperlevel": 0.6,
-      "mpregen": 5.5,
-      "mpregenperlevel": 0.5,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 46.6,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.25,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Lulu.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 336,
-      "y": 48
-    },
-    "description": "- Glitterdance (Q) bolts can not deal damage to the same target"
-  },
-  {
-    "id": "jade_lux",
-    "key": "60099",
-    "name": "Lux",
-    "title": "The Lady of Luminosity",
-    "tags": [
-      "Mage",
-      "Support"
-    ],
-    "stats": {
-      "hp": 424,
-      "hpperlevel": 79,
-      "mp": 300,
-      "mpperlevel": 50,
-      "movespeed": 330,
-      "armor": 16,
-      "armorperlevel": 4,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 550,
-      "hpregen": 5.05,
-      "hpregenperlevel": 0.55,
-      "mpregen": 6.6,
-      "mpregenperlevel": 0.6,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 53.3,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 1.36,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Lux.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 384,
-      "y": 48
-    },
-    "description": "- Light Binding's (Q) second target is half as affective<br>- Final Spark (R) is now German - Finales Funkeln"
-  },
-  {
-    "id": "jade_malphite",
-    "key": "60054",
-    "name": "Malphite",
-    "title": "Shard of the Monolith",
-    "tags": [
-      "Tank",
-      "Mage"
-    ],
-    "stats": {
-      "hp": 513,
-      "hpperlevel": 90,
-      "mp": 255,
-      "mpperlevel": 40,
-      "movespeed": 335,
-      "armor": 25.75,
-      "armorperlevel": 3.75,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 8,
-      "hpregenperlevel": 0.55,
-      "mpregen": 6.95,
-      "mpregenperlevel": 0.55,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 59.675,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 3.4,
-      "attackspeed": 0.638
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Malphite.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 432,
-      "y": 48
-    },
-    "description": "- Brutal Strikes (W) cleave is a passive and actively increases his damage"
-  },
-  {
-    "id": "jade_malzahar",
-    "key": "60090",
-    "name": "Malzahar",
-    "title": "The Prophet of the Void",
-    "tags": [
-      "Mage"
-    ],
-    "stats": {
-      "hp": 460,
-      "hpperlevel": 80,
-      "mp": 295,
-      "mpperlevel": 45,
-      "movespeed": 340,
-      "armor": 19.5,
-      "armorperlevel": 3.5,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 550,
-      "hpregen": 5.05,
-      "hpregenperlevel": 0.55,
-      "mpregen": 7.6,
-      "mpregenperlevel": 0.6,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 54.66,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 1.36,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Malzahar.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 0,
-      "y": 96
-    },
-    "description": "- Null Zone (W) is an AoE area for a short time<br>- Summon Voidling (P) creates a voidling after a number of casts<br>- Nether Grasp (R) does not have the null zone around the target"
-  },
-  {
-    "id": "jade_masteryi",
-    "key": "60011",
-    "name": "Master Yi",
-    "title": "The Wuju Bladesman",
-    "tags": [
-      "Fighter",
-      "Assassin"
-    ],
-    "stats": {
-      "hp": 530,
-      "hpperlevel": 86,
-      "mp": 235,
-      "mpperlevel": 36,
-      "movespeed": 355,
-      "armor": 24,
-      "armorperlevel": 3.7,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 7.4,
-      "hpregenperlevel": 0.65,
-      "mpregen": 6.95,
-      "mpregenperlevel": 0.45,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 58,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.98,
-      "attackspeed": 0.679
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_MasterYi.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 48,
-      "y": 96
-    },
-    "description": "- Wuju Style (E) passive increases attack damage doubled when active<br>- Double Strike (P) is percent chance based<br>- Alpha Strike (Q) can not be directed after finishing movements"
-  },
-  {
-    "id": "jade_missfortune",
-    "key": "60021",
-    "name": "Miss Fortune",
-    "title": "The Bounty Hunter",
-    "tags": [
-      "Marksman",
-      "Mage"
-    ],
-    "stats": {
-      "hp": 520,
-      "hpperlevel": 85,
-      "mp": 250,
-      "mpperlevel": 38,
-      "movespeed": 325,
-      "armor": 22,
-      "armorperlevel": 3,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 550,
-      "hpregen": 5.75,
-      "hpregenperlevel": 0.65,
-      "mpregen": 7.6,
-      "mpregenperlevel": 0.65,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 49.5,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 3.01,
-      "attackspeed": 0.656
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_MissFortune.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 96,
-      "y": 96
-    },
-    "description": "- Strut (P) moved from W<br>- Impure Shots (W) passive deals magic damage on each hit with active increasing attack speed and applying grievous wounds"
-  },
-  {
-    "id": "jade_morgana",
-    "key": "60025",
-    "name": "Morgana",
-    "title": "Fallen Angel",
-    "tags": [
-      "Support",
-      "Mage"
-    ],
-    "stats": {
-      "hp": 489,
-      "hpperlevel": 86,
-      "mp": 300,
-      "mpperlevel": 60,
-      "movespeed": 335,
-      "armor": 22.8,
-      "armorperlevel": 3.8,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 425,
-      "hpregen": 5.3,
-      "hpregenperlevel": 0.6,
-      "mpregen": 7.45,
-      "mpregenperlevel": 0.65,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 55.08,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 1.53,
-      "attackspeed": 0.579
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Morgana.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 144,
-      "y": 96
-    },
-    "description": "- The Veiled Lady doesn't change"
-  },
-  {
-    "id": "jade_nasus",
-    "key": "60075",
-    "name": "Nasus",
-    "title": "The Curator of the Sands",
-    "tags": [
-      "Fighter",
-      "Tank"
-    ],
-    "stats": {
-      "hp": 500,
-      "hpperlevel": 90,
-      "mp": 245,
-      "mpperlevel": 45,
-      "movespeed": 350,
-      "armor": 22.5,
-      "armorperlevel": 3.5,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 8.4,
-      "hpregenperlevel": 0.9,
-      "mpregen": 7.1,
-      "mpregenperlevel": 0.5,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 56.8,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 3.48,
-      "attackspeed": 0.638
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Nasus.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 192,
-      "y": 96
-    },
-    "description": "- Fury of the Sands (R) magic damage temporarily converts a percentage into Attack Damage"
-  },
-  {
-    "id": "jade_nidalee",
-    "key": "60076",
-    "name": "Nidalee",
-    "title": "The Bestial Huntress",
-    "tags": [
-      "Assassin",
-      "Mage"
-    ],
-    "stats": {
-      "hp": 460,
-      "hpperlevel": 90,
-      "mp": 265,
-      "mpperlevel": 45,
-      "movespeed": 335,
-      "armor": 18.5,
-      "armorperlevel": 3.5,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 525,
-      "hpregen": 5.6,
-      "hpregenperlevel": 0.6,
-      "mpregen": 7.5,
-      "mpregenperlevel": 0.5,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 52.5,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 3.22,
-      "attackspeed": 0.67
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Nidalee.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 240,
-      "y": 96
-    },
-    "description": "- Aspect of the Cougar (R) does not start with a level<br>- Prowl (P) has Hunt passive removed<br>- Bushwhack (W) does insane damage"
-  },
-  {
-    "id": "jade_nunu",
-    "key": "60020",
-    "name": "Nunu & Willump",
-    "title": "The Yeti Rider",
-    "tags": [
-      "Tank",
-      "Mage"
-    ],
-    "stats": {
-      "hp": 533,
-      "hpperlevel": 96,
-      "mp": 255,
-      "mpperlevel": 42,
-      "movespeed": 350,
-      "armor": 24,
-      "armorperlevel": 3.5,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 7.85,
-      "hpregenperlevel": 0.8,
-      "mpregen": 7.1,
-      "mpregenperlevel": 0.5,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 54.51,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.25,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Nunu.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 288,
-      "y": 96
-    },
-    "description": "- Blood Boil (W) grants attack and movement speed<br>- Ice Blast (E) a single point and click snowball<br>- Consume (Q) can't target champions but gain buffs based on whats eaten<br>- Visionary (P) every 5 basic attacks the next spell costs no mana -..."
-  },
-  {
-    "id": "jade_olaf",
-    "key": "60002",
-    "name": "Olaf",
-    "title": "The Berserker",
-    "tags": [
-      "Fighter",
-      "Tank"
-    ],
-    "stats": {
-      "hp": 534,
-      "hpperlevel": 93,
-      "mp": 270,
-      "mpperlevel": 45,
-      "movespeed": 350,
-      "armor": 24,
-      "armorperlevel": 3,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 7.9,
-      "hpregenperlevel": 0.9,
-      "mpregen": 7.075,
-      "mpregenperlevel": 0.575,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 57.6,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.7,
-      "attackspeed": 0.694
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Olaf.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 336,
-      "y": 96
-    },
-    "description": "- Vicious Strikes (W) grants Attack Damage, Lifesteal and Spell Vamp<br>- Reckless Swing (E) does not heal the health cost"
-  },
-  {
-    "id": "jade_pantheon",
-    "key": "60080",
-    "name": "Pantheon",
-    "title": "The Artisan of War",
-    "tags": [
-      "Fighter",
-      "Assassin"
-    ],
-    "stats": {
-      "hp": 520,
-      "hpperlevel": 87,
-      "mp": 244,
-      "mpperlevel": 34,
-      "movespeed": 355,
-      "armor": 25,
-      "armorperlevel": 3.9,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 150,
-      "hpregen": 7.4,
-      "hpregenperlevel": 0.65,
-      "mpregen": 7.05,
-      "mpregenperlevel": 0.45,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 53.6,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.95,
-      "attackspeed": 0.679
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Pantheon.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 384,
-      "y": 96
-    },
-    "description": "- Aegis Protection (P) blocks damage after casting multiple times<br>- Grand Skyfall (R) is a circle AoE<br>- Heartseeker Strike (E) - Pantheon stands still and strikes"
-  },
-  {
-    "id": "jade_rammus",
-    "key": "60033",
-    "name": "Rammus",
-    "title": "The Armordillo",
-    "tags": [
-      "Tank"
-    ],
-    "stats": {
-      "hp": 506,
-      "hpperlevel": 86,
-      "mp": 288,
-      "mpperlevel": 33,
-      "movespeed": 335,
-      "armor": 28.8,
-      "armorperlevel": 3.8,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 7.55,
-      "hpregenperlevel": 0.55,
-      "mpregen": 7.5,
-      "mpregenperlevel": 0.5,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 53.5,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.215,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Rammus.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion2.png",
-      "x": 432,
-      "y": 96
-    },
-    "description": "- Tremors (R) is a repeating AoE around him<br>- All other abilities are ok"
-  },
-  {
-    "id": "jade_ryze",
-    "key": "60013",
-    "name": "Ryze",
-    "title": "The Rogue Mage",
-    "tags": [
-      "Mage"
-    ],
-    "stats": {
-      "hp": 446,
-      "hpperlevel": 86,
-      "mp": 305,
-      "mpperlevel": 55,
-      "movespeed": 335,
-      "armor": 18.9,
-      "armorperlevel": 3.9,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 550,
-      "hpregen": 4.9,
-      "hpregenperlevel": 0.55,
-      "mpregen": 7.6,
-      "mpregenperlevel": 0.6,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 55,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.112,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Ryze.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
-      "x": 0,
-      "y": 0
-    },
-    "description": "- The Abilities are completely different (for the 5th time)"
-  },
-  {
-    "id": "jade_shaco",
-    "key": "60035",
-    "name": "Shaco",
-    "title": "The Demon Jester",
-    "tags": [
-      "Assassin"
-    ],
-    "stats": {
-      "hp": 525,
-      "hpperlevel": 84,
-      "mp": 270,
-      "mpperlevel": 40,
-      "movespeed": 350,
-      "armor": 22.5,
-      "armorperlevel": 3.5,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 8,
-      "hpregenperlevel": 0.55,
-      "mpregen": 6.85,
-      "mpregenperlevel": 0.45,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 55.2,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 3,
-      "attackspeed": 0.694
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Shaco.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
-      "x": 48,
-      "y": 0
-    },
-    "description": "- Hallucinate (R) clone explodes dealing more damage but doesn't spawn boxes<br>- Jack in the box (W) can be placed closer together"
-  },
-  {
-    "id": "jade_singed",
-    "key": "60027",
-    "name": "Singed",
-    "title": "The Mad Chemist",
-    "tags": [
-      "Tank",
-      "Mage"
-    ],
-    "stats": {
-      "hp": 487,
-      "hpperlevel": 82,
-      "mp": 260,
-      "mpperlevel": 45,
-      "movespeed": 345,
-      "armor": 25.5,
-      "armorperlevel": 3.5,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 125,
-      "hpregen": 7.65,
-      "hpregenperlevel": 0.55,
-      "mpregen": 7.15,
-      "mpregenperlevel": 0.55,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 60.025,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 1.81,
-      "attackspeed": 0.613
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Singed.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
-      "x": 96,
-      "y": 0
-    },
-    "description": "- Empowered Bulwark (P) gains health with Mana"
-  },
-  {
-    "id": "jade_sion",
-    "key": "60014",
-    "name": "Sion",
-    "title": "The Undead Champion",
-    "tags": [
-      "Tank",
-      "Fighter"
-    ],
-    "stats": {
-      "hp": 507,
-      "hpperlevel": 104,
-      "mp": 240,
-      "mpperlevel": 40,
-      "movespeed": 345,
-      "armor": 25,
-      "armorperlevel": 3.25,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 8.85,
-      "hpregenperlevel": 0.95,
-      "mpregen": 6.7,
-      "mpregenperlevel": 0.4,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 58.7075,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 1.63,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Sion.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
-      "x": 144,
-      "y": 0
-    },
-    "description": "- The Abilities are completely different. Read the descriptions<br>- Sion has Ability Power and Attack Damage builds<br>- Damage dealer not a Juggernaut"
-  },
-  {
-    "id": "jade_sivir",
-    "key": "60015",
-    "name": "Sivir",
-    "title": "The Battle Mistress",
-    "tags": [
-      "Marksman"
-    ],
-    "stats": {
-      "hp": 460,
-      "hpperlevel": 82,
-      "mp": 246,
-      "mpperlevel": 43,
-      "movespeed": 335,
-      "armor": 20,
-      "armorperlevel": 3.25,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 425,
-      "hpregen": 4.8,
-      "hpregenperlevel": 0.55,
-      "mpregen": 7,
-      "mpregenperlevel": 0.5,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 52,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 3.28,
-      "attackspeed": 0.679
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Sivir.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
-      "x": 192,
-      "y": 0
-    },
-    "description": "- Ricochet (W) toggles bouncing randomly attacks <br>- Spell Shield (E) gain mana instead of health when triggered"
-  },
-  {
-    "id": "jade_skarner",
-    "key": "60072",
-    "name": "Skarner",
-    "title": "The Crystal Vanguard",
-    "tags": [
-      "Tank",
-      "Fighter"
-    ],
-    "stats": {
-      "hp": 536,
-      "hpperlevel": 96,
-      "mp": 245,
-      "mpperlevel": 40,
-      "movespeed": 345,
-      "armor": 26.8,
-      "armorperlevel": 3.8,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 8.35,
-      "hpregenperlevel": 0.85,
-      "mpregen": 6.9,
-      "mpregenperlevel": 0.45,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 58.3,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.1,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Skarner.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
-      "x": 240,
-      "y": 0
-    },
-    "description": "- The Abilities are completely different<br>- Bruiser and auto attacker<br>- Impale (R) is a single target point and click"
-  },
-  {
-    "id": "jade_sona",
-    "key": "60037",
-    "name": "Sona",
-    "title": "Maven of the Strings",
-    "tags": [
-      "Support",
-      "Mage"
-    ],
-    "stats": {
-      "hp": 450,
-      "hpperlevel": 70,
-      "mp": 310,
-      "mpperlevel": 45,
-      "movespeed": 330,
-      "armor": 15.3,
-      "armorperlevel": 3.3,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 550,
-      "hpregen": 5.05,
-      "hpregenperlevel": 0.55,
-      "mpregen": 7.65,
-      "mpregenperlevel": 0.65,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 50,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.3,
-      "attackspeed": 0.644
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Sona.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
-      "x": 288,
-      "y": 0
-    },
-    "description": "- Auras of basic abilities are persistent<br>- Power Chord (P) does bonus damage<br>- Crescendo (R) is wider"
-  },
-  {
-    "id": "jade_soraka",
-    "key": "60016",
-    "name": "Soraka",
-    "title": "The Starchild",
-    "tags": [
-      "Support",
-      "Mage"
-    ],
-    "stats": {
-      "hp": 446,
-      "hpperlevel": 71,
-      "mp": 300,
-      "mpperlevel": 60,
-      "movespeed": 335,
-      "armor": 15.2,
-      "armorperlevel": 3.8,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 550,
-      "hpregen": 5.05,
-      "hpregenperlevel": 0.55,
-      "mpregen": 7.45,
-      "mpregenperlevel": 0.65,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 51.8,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.14,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Soraka.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
-      "x": 336,
-      "y": 0
-    },
-    "description": "- The Abilities are completely different, except for the ultimate Wish (R)<br>- Can solo lane<br>- Has a point and click silence"
-  },
-  {
-    "id": "jade_taric",
-    "key": "60044",
-    "name": "Taric",
-    "title": "The Gem Knight",
-    "tags": [
-      "Support",
-      "Tank"
-    ],
-    "stats": {
-      "hp": 558,
-      "hpperlevel": 90,
-      "mp": 311,
-      "mpperlevel": 56,
-      "movespeed": 340,
-      "armor": 23.7,
-      "armorperlevel": 3.2,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 7.6,
-      "hpregenperlevel": 0.5,
-      "mpregen": 4.5,
-      "mpregenperlevel": 0.4,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 55.5,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.02,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Taric.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
-      "x": 384,
-      "y": 0
-    },
-    "description": "- The Abilities are completely different. Read the descriptions<br>- Can solo lane and maybe jungle"
-  },
-  {
-    "id": "jade_teemo",
-    "key": "60017",
-    "name": "Teemo",
-    "title": "The Swift Scout",
-    "tags": [
-      "Marksman",
-      "Mage"
-    ],
-    "stats": {
-      "hp": 460,
-      "hpperlevel": 82,
-      "mp": 240,
-      "mpperlevel": 40,
-      "movespeed": 330,
-      "armor": 21.75,
-      "armorperlevel": 3.75,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 500,
-      "hpregen": 5.3,
-      "hpregenperlevel": 0.65,
-      "mpregen": 6.9,
-      "mpregenperlevel": 0.45,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 47.5,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 3.38,
-      "attackspeed": 0.69
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Teemo.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
-      "x": 432,
-      "y": 0
-    },
-    "description": "- Noxious Trap's (R) don't bounce"
-  },
-  {
-    "id": "jade_tristana",
-    "key": "60018",
-    "name": "Tristana",
-    "title": "The Megling Gunner",
-    "tags": [
-      "Marksman",
-      "Assassin"
-    ],
-    "stats": {
-      "hp": 497,
-      "hpperlevel": 82,
-      "mp": 225,
-      "mpperlevel": 32,
-      "movespeed": 325,
-      "armor": 22,
-      "armorperlevel": 3,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 550,
-      "hpregen": 5.75,
-      "hpregenperlevel": 0.65,
-      "mpregen": 6.9,
-      "mpregenperlevel": 0.45,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 49.5,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 4,
-      "attackspeed": 0.656
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Tristana.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
-      "x": 0,
-      "y": 48
-    },
-    "description": "- Explosive Shot (E) is a DoT ability"
-  },
-  {
-    "id": "jade_tryndamere",
-    "key": "60023",
-    "name": "Tryndamere",
-    "title": "The Barbarian King",
-    "tags": [
-      "Fighter",
-      "Assassin"
-    ],
-    "stats": {
-      "hp": 559,
-      "hpperlevel": 95,
-      "mp": 8,
-      "mpperlevel": 0,
-      "movespeed": 345,
-      "armor": 22,
-      "armorperlevel": 3.1,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 10,
-      "hpregenperlevel": 0.9,
-      "mpregen": 0,
-      "mpregenperlevel": 0,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 60,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.9,
-      "attackspeed": 0.67
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Tryndamere.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
-      "x": 48,
-      "y": 48
-    },
-    "description": "- We were too scared of his rage to change him"
-  },
-  {
-    "id": "jade_twistedfate",
-    "key": "60004",
-    "name": "Twisted Fate",
-    "title": "The Card Master",
-    "tags": [
-      "Mage",
-      "Marksman"
-    ],
-    "stats": {
-      "hp": 466,
-      "hpperlevel": 82,
-      "mp": 240,
-      "mpperlevel": 38,
-      "movespeed": 330,
-      "armor": 18.4,
-      "armorperlevel": 3.15,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 525,
-      "hpregen": 5.1,
-      "hpregenperlevel": 0.6,
-      "mpregen": 7,
-      "mpregenperlevel": 0.5,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 49.71,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 3.22,
-      "attackspeed": 0.651
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_TwistedFate.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
-      "x": 96,
-      "y": 48
-    },
-    "description": "- Gate (E) is a global teleport<br>- Destiny (R) is a global slow and reveal<br>- Loaded Dice (P) grants all allies and himself gold on kill"
-  },
-  {
-    "id": "jade_twitch",
-    "key": "60029",
-    "name": "Twitch",
-    "title": "The Plague Rat",
-    "tags": [
-      "Marksman",
-      "Assassin"
-    ],
-    "stats": {
-      "hp": 470,
-      "hpperlevel": 81,
-      "mp": 260,
-      "mpperlevel": 40,
-      "movespeed": 330,
-      "armor": 21,
-      "armorperlevel": 3,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 550,
-      "hpregen": 5.6,
-      "hpregenperlevel": 0.6,
-      "mpregen": 6.95,
-      "mpregenperlevel": 0.45,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 52,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 3.38,
-      "attackspeed": 0.679
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Twitch.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
-      "x": 144,
-      "y": 48
-    },
-    "description": "- Deliberating Poison (W) is an AoE spell around him<br>- Ambush (Q) can last up to 50 seconds<br>- Expunge (E) removes poison stacks on enemies"
-  },
-  {
-    "id": "jade_vayne",
-    "key": "60067",
-    "name": "Vayne",
-    "title": "The Night Hunter",
-    "tags": [
-      "Marksman",
-      "Assassin"
-    ],
-    "stats": {
-      "hp": 442,
-      "hpperlevel": 83,
-      "mp": 208,
-      "mpperlevel": 35,
-      "movespeed": 330,
-      "armor": 16.7,
-      "armorperlevel": 3.4,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 550,
-      "hpregen": 5.05,
-      "hpregenperlevel": 0.55,
-      "mpregen": 6.7,
-      "mpregenperlevel": 0.4,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 53.25,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 3.1,
-      "attackspeed": 0.658
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Vayne.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
-      "x": 192,
-      "y": 48
-    },
-    "description": "- Final Hour (R) can not be extended"
-  },
-  {
-    "id": "jade_veigar",
-    "key": "60045",
-    "name": "Veigar",
-    "title": "The Tiny Maser of Evil",
-    "tags": [
-      "Mage"
-    ],
-    "stats": {
-      "hp": 437,
-      "hpperlevel": 82,
-      "mp": 305,
-      "mpperlevel": 55,
-      "movespeed": 340,
-      "armor": 19.75,
-      "armorperlevel": 3.75,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 525,
-      "hpregen": 5.15,
-      "hpregenperlevel": 0.5,
-      "mpregen": 7.5,
-      "mpregenperlevel": 0.6,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 50.65,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Veigar.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
-      "x": 240,
-      "y": 48
-    },
-    "description": "- Baleful Strike (Q) is point and click<br>- Event Horizon (E) is instant<br>- Equilibrium (P) gains increased mana regeneration based on missing mana"
-  },
-  {
-    "id": "jade_warwick",
-    "key": "60019",
-    "name": "Warwick",
-    "title": "The Blood Hunter",
-    "tags": [
-      "Fighter",
-      "Tank"
-    ],
-    "stats": {
-      "hp": 526,
-      "hpperlevel": 98,
-      "mp": 220,
-      "mpperlevel": 30,
-      "movespeed": 345,
-      "armor": 23.5,
-      "armorperlevel": 3.5,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 7.85,
-      "hpregenperlevel": 0.8,
-      "mpregen": 7.7,
-      "mpregenperlevel": 0.6,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 60.135,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.88,
-      "attackspeed": 0.679
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Warwick.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
-      "x": 288,
-      "y": 48
-    },
-    "description": "- The Abilities are completely different<br>- Infinite Duress (R) is a point and click suppress"
-  },
-  {
-    "id": "jade_wukong",
-    "key": "60062",
-    "name": "Wukong",
-    "title": "The Monkey King",
-    "tags": [
-      "Fighter",
-      "Tank"
-    ],
-    "stats": {
-      "hp": 520,
-      "hpperlevel": 85,
-      "mp": 240,
-      "mpperlevel": 38,
-      "movespeed": 345,
-      "armor": 22.5,
-      "armorperlevel": 3.5,
-      "spellblock": 31.25,
-      "spellblockperlevel": 1.25,
-      "attackrange": 175,
-      "hpregen": 5.75,
-      "hpregenperlevel": 0.65,
-      "mpregen": 7.6,
-      "mpregenperlevel": 0.65,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 57.7,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 3,
-      "attackspeed": 0.658
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Wukong.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
-      "x": 336,
-      "y": 48
-    },
-    "description": "- Decoy (W) does not mirror other abilities used and does not auto attack<br>- Cyclone (R) only has 1 activation"
-  },
-  {
-    "id": "jade_zilean",
-    "key": "60026",
-    "name": "Zilean",
-    "title": "The Chronokeeper",
-    "tags": [
-      "Support",
-      "Mage"
-    ],
-    "stats": {
-      "hp": 451,
-      "hpperlevel": 71,
-      "mp": 320,
-      "mpperlevel": 60,
-      "movespeed": 335,
-      "armor": 14.55,
-      "armorperlevel": 3.8,
-      "spellblock": 30,
-      "spellblockperlevel": 0,
-      "attackrange": 600,
-      "hpregen": 5.1,
-      "hpregenperlevel": 0.5,
-      "mpregen": 7.6,
-      "mpregenperlevel": 0.65,
-      "crit": 0,
-      "critperlevel": 0,
-      "attackdamage": 51.6,
-      "attackdamageperlevel": 0,
-      "attackspeedperlevel": 2.13,
-      "attackspeed": 0.625
-    },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jade_Zilean.png",
-    "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
-      "x": 384,
-      "y": 48
-    },
-    "description": "- Time Bomb (Q) is point and click<br>- Heightened Learning (P) grants experience to his entire team"
   },
   {
     "id": "janna",
@@ -4260,9 +1929,9 @@
       "attackspeedperlevel": 3,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Janna.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Janna.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 432,
       "y": 48
     },
@@ -4299,9 +1968,9 @@
       "attackspeedperlevel": 2.5,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/JarvanIV.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/JarvanIV.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 0,
       "y": 96
     },
@@ -4337,9 +2006,9 @@
       "attackspeedperlevel": 3.4,
       "attackspeed": 0.638
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jax.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Jax.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 48,
       "y": 96
     },
@@ -4376,9 +2045,9 @@
       "attackspeedperlevel": 3,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jayce.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Jayce.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 96,
       "y": 96
     },
@@ -4401,8 +2070,8 @@
       "movespeed": 330,
       "armor": 24,
       "armorperlevel": 4.7,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 550,
       "hpregen": 3.75,
       "hpregenperlevel": 0.55,
@@ -4415,9 +2084,9 @@
       "attackspeedperlevel": 0,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jhin.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Jhin.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 144,
       "y": 96
     },
@@ -4439,8 +2108,8 @@
       "movespeed": 325,
       "armor": 26,
       "armorperlevel": 4.2,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 525,
       "hpregen": 3.75,
       "hpregenperlevel": 0.5,
@@ -4453,9 +2122,9 @@
       "attackspeedperlevel": 1,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Jinx.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Jinx.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 192,
       "y": 96
     },
@@ -4478,8 +2147,8 @@
       "movespeed": 335,
       "armor": 25,
       "armorperlevel": 4.2,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 525,
       "hpregen": 4,
       "hpregenperlevel": 0.55,
@@ -4492,9 +2161,9 @@
       "attackspeedperlevel": 1.8,
       "attackspeed": 0.644
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Kaisa.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Kaisa.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 240,
       "y": 96
     },
@@ -4516,8 +2185,8 @@
       "movespeed": 330,
       "armor": 24,
       "armorperlevel": 5.2,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 525,
       "hpregen": 4,
       "hpregenperlevel": 0.75,
@@ -4530,9 +2199,9 @@
       "attackspeedperlevel": 4.5,
       "attackspeed": 0.694
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Kalista.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Kalista.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 288,
       "y": 96
     },
@@ -4569,9 +2238,9 @@
       "attackspeedperlevel": 2.3,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Karma.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Karma.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 336,
       "y": 96
     },
@@ -4607,9 +2276,9 @@
       "attackspeedperlevel": 2.11,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Karthus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Karthus.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 384,
       "y": 96
     },
@@ -4646,9 +2315,9 @@
       "attackspeedperlevel": 3.7,
       "attackspeed": 0.64
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Kassadin.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Kassadin.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion1.png",
       "x": 432,
       "y": 96
     },
@@ -4685,9 +2354,9 @@
       "attackspeedperlevel": 2.74,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Katarina.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Katarina.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 0,
       "y": 0
     },
@@ -4724,9 +2393,9 @@
       "attackspeedperlevel": 1.5,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Kayle.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Kayle.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 48,
       "y": 0
     },
@@ -4763,9 +2432,9 @@
       "attackspeedperlevel": 2.7,
       "attackspeed": 0.669
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Kayn.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Kayn.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 96,
       "y": 0
     },
@@ -4801,9 +2470,9 @@
       "attackspeedperlevel": 3.4,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Kennen.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Kennen.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 144,
       "y": 0
     },
@@ -4839,9 +2508,9 @@
       "attackspeedperlevel": 2.7,
       "attackspeed": 0.668
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Khazix.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Khazix.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 192,
       "y": 0
     },
@@ -4863,8 +2532,8 @@
       "movespeed": 325,
       "armor": 29,
       "armorperlevel": 4.7,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 500,
       "hpregen": 7,
       "hpregenperlevel": 0.55,
@@ -4877,9 +2546,9 @@
       "attackspeedperlevel": 3.5,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Kindred.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Kindred.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 240,
       "y": 0
     },
@@ -4915,9 +2584,9 @@
       "attackspeedperlevel": 3.5,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Kled.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Kled.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 288,
       "y": 0
     },
@@ -4940,8 +2609,8 @@
       "movespeed": 330,
       "armor": 24,
       "armorperlevel": 4.45,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 500,
       "hpregen": 3.75,
       "hpregenperlevel": 0.55,
@@ -4954,9 +2623,9 @@
       "attackspeedperlevel": 2.65,
       "attackspeed": 0.665
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/KogMaw.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/KogMaw.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 336,
       "y": 0
     },
@@ -4993,9 +2662,9 @@
       "attackspeedperlevel": 2.5,
       "attackspeed": 0.688
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/KSante.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/KSante.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 384,
       "y": 0
     },
@@ -5032,9 +2701,9 @@
       "attackspeedperlevel": 2.35,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Leblanc.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Leblanc.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 432,
       "y": 0
     },
@@ -5071,9 +2740,9 @@
       "attackspeedperlevel": 3,
       "attackspeed": 0.651
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/LeeSin.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/LeeSin.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 0,
       "y": 48
     },
@@ -5110,9 +2779,9 @@
       "attackspeedperlevel": 2.9,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Leona.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Leona.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 48,
       "y": 48
     },
@@ -5149,9 +2818,9 @@
       "attackspeedperlevel": 2.7,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Lillia.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Lillia.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 96,
       "y": 48
     },
@@ -5187,9 +2856,9 @@
       "attackspeedperlevel": 1.5,
       "attackspeed": 0.656
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Lissandra.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Lissandra.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 144,
       "y": 48
     },
@@ -5226,9 +2895,9 @@
       "attackspeedperlevel": 3.3,
       "attackspeed": 0.688
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Locke.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Locke.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 192,
       "y": 48
     },
@@ -5251,8 +2920,8 @@
       "movespeed": 335,
       "armor": 28,
       "armorperlevel": 4.2,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 500,
       "hpregen": 3.75,
       "hpregenperlevel": 0.65,
@@ -5265,9 +2934,9 @@
       "attackspeedperlevel": 2.5,
       "attackspeed": 0.638
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Lucian.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Lucian.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 240,
       "y": 48
     },
@@ -5304,9 +2973,9 @@
       "attackspeedperlevel": 2.25,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Lulu.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Lulu.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 288,
       "y": 48
     },
@@ -5343,9 +3012,9 @@
       "attackspeedperlevel": 3,
       "attackspeed": 0.669
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Lux.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Lux.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 336,
       "y": 48
     },
@@ -5382,9 +3051,9 @@
       "attackspeedperlevel": 3.4,
       "attackspeed": 0.736
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Malphite.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Malphite.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 384,
       "y": 48
     },
@@ -5420,9 +3089,9 @@
       "attackspeedperlevel": 1.5,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Malzahar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Malzahar.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 432,
       "y": 48
     },
@@ -5459,9 +3128,9 @@
       "attackspeedperlevel": 2.125,
       "attackspeed": 0.8
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Maokai.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Maokai.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 0,
       "y": 96
     },
@@ -5498,9 +3167,9 @@
       "attackspeedperlevel": 2.5,
       "attackspeed": 0.679
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/MasterYi.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/MasterYi.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 48,
       "y": 96
     },
@@ -5537,9 +3206,9 @@
       "attackspeedperlevel": 2.5,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Mel.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Mel.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 96,
       "y": 96
     },
@@ -5576,9 +3245,9 @@
       "attackspeedperlevel": 3,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Milio.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Milio.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 144,
       "y": 96
     },
@@ -5601,8 +3270,8 @@
       "movespeed": 325,
       "armor": 25,
       "armorperlevel": 4,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 550,
       "hpregen": 3.75,
       "hpregenperlevel": 0.65,
@@ -5615,9 +3284,9 @@
       "attackspeedperlevel": 3,
       "attackspeed": 0.656
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/MissFortune.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/MissFortune.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 192,
       "y": 96
     },
@@ -5654,9 +3323,9 @@
       "attackspeedperlevel": 3,
       "attackspeed": 0.69
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/MonkeyKing.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/MonkeyKing.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 240,
       "y": 96
     },
@@ -5693,9 +3362,9 @@
       "attackspeedperlevel": 1,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Mordekaiser.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Mordekaiser.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 288,
       "y": 96
     },
@@ -5732,9 +3401,9 @@
       "attackspeedperlevel": 1.53,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Morgana.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Morgana.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 336,
       "y": 96
     },
@@ -5771,9 +3440,9 @@
       "attackspeedperlevel": 2.1,
       "attackspeed": 0.663
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Naafiri.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Naafiri.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 384,
       "y": 96
     },
@@ -5810,9 +3479,9 @@
       "attackspeedperlevel": 2.61,
       "attackspeed": 0.644
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Nami.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Nami.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion2.png",
       "x": 432,
       "y": 96
     },
@@ -5849,9 +3518,9 @@
       "attackspeedperlevel": 3.48,
       "attackspeed": 0.638
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Nasus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Nasus.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 0,
       "y": 0
     },
@@ -5888,9 +3557,9 @@
       "attackspeedperlevel": 1,
       "attackspeed": 0.706
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Nautilus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Nautilus.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 48,
       "y": 0
     },
@@ -5927,9 +3596,9 @@
       "attackspeedperlevel": 3.5,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Neeko.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Neeko.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 96,
       "y": 0
     },
@@ -5966,9 +3635,9 @@
       "attackspeedperlevel": 3.22,
       "attackspeed": 0.638
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Nidalee.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Nidalee.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 144,
       "y": 0
     },
@@ -6005,9 +3674,9 @@
       "attackspeedperlevel": 1.25,
       "attackspeed": 0.697
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Nilah.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Nilah.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 192,
       "y": 0
     },
@@ -6044,9 +3713,9 @@
       "attackspeedperlevel": 2.7,
       "attackspeed": 0.721
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Nocturne.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Nocturne.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 240,
       "y": 0
     },
@@ -6083,9 +3752,9 @@
       "attackspeedperlevel": 2.25,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Nunu.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Nunu.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 288,
       "y": 0
     },
@@ -6122,9 +3791,9 @@
       "attackspeedperlevel": 2.7,
       "attackspeed": 0.72
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Olaf.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Olaf.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 336,
       "y": 0
     },
@@ -6161,9 +3830,9 @@
       "attackspeedperlevel": 3.5,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Orianna.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Orianna.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 384,
       "y": 0
     },
@@ -6199,9 +3868,9 @@
       "attackspeedperlevel": 2,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Ornn.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Ornn.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 432,
       "y": 0
     },
@@ -6238,9 +3907,9 @@
       "attackspeedperlevel": 2.95,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Pantheon.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Pantheon.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 0,
       "y": 48
     },
@@ -6258,28 +3927,28 @@
     "stats": {
       "hp": 610,
       "hpperlevel": 110,
-      "mp": 280,
-      "mpperlevel": 40,
+      "mp": 300,
+      "mpperlevel": 45,
       "movespeed": 345,
       "armor": 35,
       "armorperlevel": 5,
       "spellblock": 32,
       "spellblockperlevel": 2.05,
       "attackrange": 125,
-      "hpregen": 8,
+      "hpregen": 9,
       "hpregenperlevel": 0.8,
       "mpregen": 7,
       "mpregenperlevel": 0.7,
       "crit": 0,
       "critperlevel": 0,
-      "attackdamage": 60,
+      "attackdamage": 56,
       "attackdamageperlevel": 0,
       "attackspeedperlevel": 2.5,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Poppy.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Poppy.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 48,
       "y": 48
     },
@@ -6316,9 +3985,9 @@
       "attackspeedperlevel": 2.5,
       "attackspeed": 0.667
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Pyke.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Pyke.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 96,
       "y": 48
     },
@@ -6354,9 +4023,9 @@
       "attackspeedperlevel": 2.1,
       "attackspeed": 0.688
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Qiyana.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Qiyana.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 144,
       "y": 48
     },
@@ -6379,8 +4048,8 @@
       "movespeed": 330,
       "armor": 28,
       "armorperlevel": 4.7,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 525,
       "hpregen": 5.5,
       "hpregenperlevel": 0.55,
@@ -6393,9 +4062,9 @@
       "attackspeedperlevel": 3.1,
       "attackspeed": 0.668
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Quinn.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Quinn.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 192,
       "y": 48
     },
@@ -6431,9 +4100,9 @@
       "attackspeedperlevel": 3,
       "attackspeed": 0.635
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Rakan.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Rakan.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 240,
       "y": 48
     },
@@ -6469,9 +4138,9 @@
       "attackspeedperlevel": 2.215,
       "attackspeed": 0.7
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Rammus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Rammus.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 288,
       "y": 48
     },
@@ -6508,9 +4177,9 @@
       "attackspeedperlevel": 2,
       "attackspeed": 0.667
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/RekSai.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/RekSai.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 336,
       "y": 48
     },
@@ -6547,9 +4216,9 @@
       "attackspeedperlevel": 2,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Rell.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Rell.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 384,
       "y": 48
     },
@@ -6586,9 +4255,9 @@
       "attackspeedperlevel": 2.11,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Renata.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Renata.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 432,
       "y": 48
     },
@@ -6625,9 +4294,9 @@
       "attackspeedperlevel": 2.75,
       "attackspeed": 0.665
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Renekton.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Renekton.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 0,
       "y": 96
     },
@@ -6664,9 +4333,9 @@
       "attackspeedperlevel": 3,
       "attackspeed": 0.667
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Rengar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Rengar.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 48,
       "y": 96
     },
@@ -6703,9 +4372,9 @@
       "attackspeedperlevel": 3.5,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Riven.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Riven.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 96,
       "y": 96
     },
@@ -6742,9 +4411,9 @@
       "attackspeedperlevel": 1.85,
       "attackspeed": 0.644
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Rumble.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Rumble.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 144,
       "y": 96
     },
@@ -6780,9 +4449,9 @@
       "attackspeedperlevel": 2.11,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Ryze.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Ryze.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 192,
       "y": 96
     },
@@ -6805,8 +4474,8 @@
       "movespeed": 335,
       "armor": 26,
       "armorperlevel": 4.7,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 500,
       "hpregen": 3.25,
       "hpregenperlevel": 0.55,
@@ -6819,9 +4488,9 @@
       "attackspeedperlevel": 3.3,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Samira.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Samira.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 240,
       "y": 96
     },
@@ -6857,9 +4526,9 @@
       "attackspeedperlevel": 3.5,
       "attackspeed": 0.688
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Sejuani.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Sejuani.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 288,
       "y": 96
     },
@@ -6882,8 +4551,8 @@
       "movespeed": 330,
       "armor": 25,
       "armorperlevel": 4,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 600,
       "hpregen": 3.5,
       "hpregenperlevel": 0.55,
@@ -6896,9 +4565,9 @@
       "attackspeedperlevel": 2.6,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Senna.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Senna.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 336,
       "y": 96
     },
@@ -6935,9 +4604,9 @@
       "attackspeedperlevel": 2,
       "attackspeed": 0.669
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Seraphine.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Seraphine.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 384,
       "y": 96
     },
@@ -6974,9 +4643,9 @@
       "attackspeedperlevel": 1.75,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Sett.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Sett.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion5.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion3.png",
       "x": 432,
       "y": 96
     },
@@ -7012,9 +4681,9 @@
       "attackspeedperlevel": 3,
       "attackspeed": 0.694
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Shaco.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Shaco.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 0,
       "y": 0
     },
@@ -7050,9 +4719,9 @@
       "attackspeedperlevel": 3,
       "attackspeed": 0.751
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Shen.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Shen.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 48,
       "y": 0
     },
@@ -7089,9 +4758,9 @@
       "attackspeedperlevel": 2,
       "attackspeed": 0.638
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Shyvana.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Shyvana.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 96,
       "y": 0
     },
@@ -7128,9 +4797,9 @@
       "attackspeedperlevel": 1.9,
       "attackspeed": 0.7
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Singed.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Singed.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 144,
       "y": 0
     },
@@ -7167,9 +4836,9 @@
       "attackspeedperlevel": 1.3,
       "attackspeed": 0.679
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Sion.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Sion.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 192,
       "y": 0
     },
@@ -7191,8 +4860,8 @@
       "movespeed": 335,
       "armor": 30,
       "armorperlevel": 4,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 500,
       "hpregen": 3.25,
       "hpregenperlevel": 0.55,
@@ -7205,9 +4874,9 @@
       "attackspeedperlevel": 1.6,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Sivir.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Sivir.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 240,
       "y": 0
     },
@@ -7244,9 +4913,9 @@
       "attackspeedperlevel": 2,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Skarner.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Skarner.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 288,
       "y": 0
     },
@@ -7269,8 +4938,8 @@
       "movespeed": 330,
       "armor": 24,
       "armorperlevel": 4,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 550,
       "hpregen": 3.75,
       "hpregenperlevel": 0.6,
@@ -7283,9 +4952,9 @@
       "attackspeedperlevel": 4,
       "attackspeed": 0.638
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Smolder.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Smolder.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 336,
       "y": 0
     },
@@ -7322,9 +4991,9 @@
       "attackspeedperlevel": 2.3,
       "attackspeed": 0.644
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Sona.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Sona.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 384,
       "y": 0
     },
@@ -7361,9 +5030,9 @@
       "attackspeedperlevel": 2.14,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Soraka.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Soraka.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 432,
       "y": 0
     },
@@ -7400,9 +5069,9 @@
       "attackspeedperlevel": 2.11,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Swain.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Swain.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 0,
       "y": 48
     },
@@ -7439,9 +5108,9 @@
       "attackspeedperlevel": 3.5,
       "attackspeed": 0.645
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Sylas.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Sylas.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 48,
       "y": 48
     },
@@ -7477,9 +5146,9 @@
       "attackspeedperlevel": 2,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Syndra.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Syndra.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 96,
       "y": 48
     },
@@ -7516,9 +5185,9 @@
       "attackspeedperlevel": 2.5,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/TahmKench.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/TahmKench.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 144,
       "y": 48
     },
@@ -7555,9 +5224,9 @@
       "attackspeedperlevel": 1.36,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Taliyah.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Taliyah.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 192,
       "y": 48
     },
@@ -7593,9 +5262,9 @@
       "attackspeedperlevel": 2.9,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Talon.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Talon.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 240,
       "y": 48
     },
@@ -7632,9 +5301,9 @@
       "attackspeedperlevel": 2,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Taric.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Taric.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 288,
       "y": 48
     },
@@ -7671,9 +5340,9 @@
       "attackspeedperlevel": 3.38,
       "attackspeed": 0.69
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Teemo.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Teemo.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 336,
       "y": 48
     },
@@ -7710,9 +5379,9 @@
       "attackspeedperlevel": 3.5,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Thresh.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Thresh.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 384,
       "y": 48
     },
@@ -7735,8 +5404,8 @@
       "movespeed": 325,
       "armor": 30,
       "armorperlevel": 4,
-      "spellblock": 28,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 550,
       "hpregen": 4,
       "hpregenperlevel": 0.5,
@@ -7749,9 +5418,9 @@
       "attackspeedperlevel": 1.5,
       "attackspeed": 0.656
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Tristana.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Tristana.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 432,
       "y": 48
     },
@@ -7788,9 +5457,9 @@
       "attackspeedperlevel": 2.9,
       "attackspeed": 0.67
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Trundle.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Trundle.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 0,
       "y": 96
     },
@@ -7827,9 +5496,9 @@
       "attackspeedperlevel": 3.4,
       "attackspeed": 0.67
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Tryndamere.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Tryndamere.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 48,
       "y": 96
     },
@@ -7866,9 +5535,9 @@
       "attackspeedperlevel": 2.5,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/TwistedFate.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/TwistedFate.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 96,
       "y": 96
     },
@@ -7891,8 +5560,8 @@
       "movespeed": 330,
       "armor": 27,
       "armorperlevel": 4,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 550,
       "hpregen": 3.75,
       "hpregenperlevel": 0.6,
@@ -7905,9 +5574,9 @@
       "attackspeedperlevel": 3,
       "attackspeed": 0.679
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Twitch.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Twitch.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 144,
       "y": 96
     },
@@ -7944,9 +5613,9 @@
       "attackspeedperlevel": 3,
       "attackspeed": 0.65
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Udyr.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Udyr.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 192,
       "y": 96
     },
@@ -7983,9 +5652,9 @@
       "attackspeedperlevel": 3.75,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Urgot.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Urgot.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 240,
       "y": 96
     },
@@ -8008,8 +5677,8 @@
       "movespeed": 330,
       "armor": 24,
       "armorperlevel": 4,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 575,
       "hpregen": 3.5,
       "hpregenperlevel": 0.55,
@@ -8022,9 +5691,9 @@
       "attackspeedperlevel": 3.5,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Varus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Varus.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 288,
       "y": 96
     },
@@ -8047,8 +5716,8 @@
       "movespeed": 330,
       "armor": 23,
       "armorperlevel": 4.6,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 550,
       "hpregen": 3.5,
       "hpregenperlevel": 0.55,
@@ -8061,9 +5730,9 @@
       "attackspeedperlevel": 3.3,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Vayne.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Vayne.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 336,
       "y": 96
     },
@@ -8099,9 +5768,9 @@
       "attackspeedperlevel": 2.24,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Veigar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Veigar.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 384,
       "y": 96
     },
@@ -8138,9 +5807,9 @@
       "attackspeedperlevel": 1.59,
       "attackspeed": 0.643
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Velkoz.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Velkoz.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion6.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion4.png",
       "x": 432,
       "y": 96
     },
@@ -8176,9 +5845,9 @@
       "attackspeedperlevel": 1,
       "attackspeed": 0.669
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Vex.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Vex.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion7.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion5.png",
       "x": 0,
       "y": 0
     },
@@ -8215,9 +5884,9 @@
       "attackspeedperlevel": 2,
       "attackspeed": 0.644
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Vi.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Vi.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion7.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion5.png",
       "x": 48,
       "y": 0
     },
@@ -8254,9 +5923,9 @@
       "attackspeedperlevel": 2.75,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Viego.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Viego.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion7.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion5.png",
       "x": 96,
       "y": 0
     },
@@ -8292,9 +5961,9 @@
       "attackspeedperlevel": 2.11,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Viktor.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Viktor.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion7.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion5.png",
       "x": 144,
       "y": 0
     },
@@ -8331,9 +6000,9 @@
       "attackspeedperlevel": 2,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Vladimir.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Vladimir.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion7.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion5.png",
       "x": 192,
       "y": 0
     },
@@ -8370,9 +6039,9 @@
       "attackspeedperlevel": 2,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Volibear.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Volibear.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion7.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion5.png",
       "x": 240,
       "y": 0
     },
@@ -8409,9 +6078,9 @@
       "attackspeedperlevel": 2,
       "attackspeed": 0.638
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Warwick.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Warwick.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion7.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion5.png",
       "x": 288,
       "y": 0
     },
@@ -8433,8 +6102,8 @@
       "movespeed": 330,
       "armor": 25,
       "armorperlevel": 4.2,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 525,
       "hpregen": 3.25,
       "hpregenperlevel": 0.75,
@@ -8447,9 +6116,9 @@
       "attackspeedperlevel": 3.9,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Xayah.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Xayah.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion7.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion5.png",
       "x": 336,
       "y": 0
     },
@@ -8486,9 +6155,9 @@
       "attackspeedperlevel": 1.36,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Xerath.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Xerath.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion7.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion5.png",
       "x": 384,
       "y": 0
     },
@@ -8525,9 +6194,9 @@
       "attackspeedperlevel": 3.5,
       "attackspeed": 0.645
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/XinZhao.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/XinZhao.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion7.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion5.png",
       "x": 432,
       "y": 0
     },
@@ -8564,9 +6233,9 @@
       "attackspeedperlevel": 3.5,
       "attackspeed": 0.697
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Yasuo.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Yasuo.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion7.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion5.png",
       "x": 0,
       "y": 48
     },
@@ -8603,9 +6272,9 @@
       "attackspeedperlevel": 3.5,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Yone.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Yone.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion7.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion5.png",
       "x": 48,
       "y": 48
     },
@@ -8642,9 +6311,9 @@
       "attackspeedperlevel": 2,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Yorick.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Yorick.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion7.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion5.png",
       "x": 96,
       "y": 48
     },
@@ -8666,8 +6335,8 @@
       "movespeed": 325,
       "armor": 25,
       "armorperlevel": 4.4,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 575,
       "hpregen": 4,
       "hpregenperlevel": 0.55,
@@ -8680,9 +6349,9 @@
       "attackspeedperlevel": 2,
       "attackspeed": 0.65
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Yunara.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Yunara.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion7.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion5.png",
       "x": 144,
       "y": 48
     },
@@ -8719,9 +6388,9 @@
       "attackspeedperlevel": 1,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Yuumi.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Yuumi.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion7.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion5.png",
       "x": 192,
       "y": 48
     },
@@ -8758,9 +6427,9 @@
       "attackspeedperlevel": 2.5,
       "attackspeed": 0.625
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Zaahen.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Zaahen.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion7.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion5.png",
       "x": 240,
       "y": 48
     },
@@ -8797,9 +6466,9 @@
       "attackspeedperlevel": 1.6,
       "attackspeed": 0.736
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Zac.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Zac.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion7.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion5.png",
       "x": 288,
       "y": 48
     },
@@ -8835,9 +6504,9 @@
       "attackspeedperlevel": 3.3,
       "attackspeed": 0.651
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Zed.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Zed.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion7.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion5.png",
       "x": 336,
       "y": 48
     },
@@ -8859,8 +6528,8 @@
       "movespeed": 330,
       "armor": 24,
       "armorperlevel": 4.2,
-      "spellblock": 30,
-      "spellblockperlevel": 1.3,
+      "spellblock": 33,
+      "spellblockperlevel": 1.1,
       "attackrange": 550,
       "hpregen": 3.25,
       "hpregenperlevel": 0.7,
@@ -8873,9 +6542,9 @@
       "attackspeedperlevel": 2,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Zeri.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Zeri.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion7.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion5.png",
       "x": 384,
       "y": 48
     },
@@ -8911,9 +6580,9 @@
       "attackspeedperlevel": 2,
       "attackspeed": 0.656
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Ziggs.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Ziggs.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion7.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion5.png",
       "x": 432,
       "y": 48
     },
@@ -8950,9 +6619,9 @@
       "attackspeedperlevel": 2.13,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Zilean.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Zilean.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion7.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion5.png",
       "x": 0,
       "y": 96
     },
@@ -8988,9 +6657,9 @@
       "attackspeedperlevel": 2.5,
       "attackspeed": 0.658
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Zoe.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Zoe.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion7.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion5.png",
       "x": 48,
       "y": 96
     },
@@ -9027,9 +6696,9 @@
       "attackspeedperlevel": 2.11,
       "attackspeed": 0.681
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/champion/Zyra.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/champion/Zyra.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/16.15.1/img/sprite/champion7.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/16.16.1/img/sprite/champion5.png",
       "x": 96,
       "y": 96
     },
